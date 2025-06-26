@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Final Project</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với Trang Web của tôi</h1>
+    <p>Một dự án thiết kế web phản hồi (responsive)</p>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <img src="images/nature.jpg" alt="Cảnh thiên nhiên xanh tươi" />
+      <p>Thiên nhiên luôn mang lại cảm giác bình yên và trong lành cho con người.</p>
+    </section>
+
+    <section class="card">
+      <img src="images/city.jpg" alt="Thành phố hiện đại ban đêm" />
+      <p>Thành phố nhộn nhịp với ánh đèn lung linh mang đến sự năng động và hiện đại.</p>
+    </section>
+
+    <section class="card">
+      <img src="images/people.jpg" alt="Con người trong cuộc sống hằng ngày" />
+      <p>Con người là trung tâm của sự phát triển xã hội, văn hóa và công nghệ.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Trang Web Mẫu - Thiết kế bởi Bạn</p>
+  </footer>
+</body>
+</html>
